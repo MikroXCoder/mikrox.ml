@@ -7,12 +7,12 @@
 }
 
       h1 {
-        margin: 10px;
+        margin: 20px;
      }
 
       body {
         font-family: 'Share Tech', sans-serif;
-        font-size: 68px;
+        font-size: 50px;
         color: white;
         display: flex;
         justify-content: center;
